@@ -1,0 +1,12 @@
+# Rust build directory
+/target/
+
+# Rust executables (Linux/macOS)
+**/debug/*
+**/release/*
+
+# Rust executables (Windows)
+**/*.exe
+
+# Cargo lock file (uncomment this if you're building a library)
+Cargo.lock

@@ -1,0 +1,4 @@
+# Rust
+
+
+documenting learning rust
